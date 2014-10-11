@@ -14,6 +14,7 @@ On both sides, you'll be able to **send** or **receive messages** you wrote thro
 
 + 2 Android devices
 + 2 PC on GNU/Linux
++ 1 PC on GNU/Linux and 1 Android device
 
 ####Known bugs:
 * 2+ servers can be launched on the same device with the same UUID.
